@@ -112,7 +112,7 @@ img {
 /* NEWS
 ----------------------------------------- */
 #news {
-    background-image: url(../img/zushi-beach.jpg);
+    background-image: url("https://github.com/hiro-bluesky/kise2/blob/main/img/zushi-beach.jpg");
     height: 270px;
     margin-bottom: 40px;
 }
@@ -285,7 +285,7 @@ aside p {
 /* CONTACT 
 ----------------------------------------------- */
 #contact {
-    background-image: url(../img/zushi-beach.jpg);
+    background-image: url("https://github.com/hiro-bluesky/kise2/blob/main/img/zushi-beach.jpg");
     height: 270px;
 }
 /* SNS */
