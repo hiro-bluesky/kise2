@@ -89,7 +89,7 @@ img {
 
 #home {
     background-color: #4db1ec;
-    background-image: url(https://github.com/hiro-bluesky/kise2/blob/main/img/kise-background-image.jpg);
+    background-image: url("https://github.com/hiro-bluesky/kise2/blob/main/img/kise-background-image.jpg");
     background-blend-mode: screen;
     min-height: 100vh;
     animation: bg-color 18s infinite; /*　←キーフレーム名 bg-color を指定 */
