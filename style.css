@@ -112,7 +112,7 @@ img {
 /* NEWS
 ----------------------------------------- */
 #news {
-    background-image: url("https://github.com/hiro-bluesky/kise2/blob/main/img/zushi-beach.jpg");
+    background-image: url("https://raw.githubusercontent.com/hiro-bluesky/kise2/main/img/kise-background-image.jpg");
     height: 270px;
     margin-bottom: 40px;
 }
