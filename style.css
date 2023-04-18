@@ -211,7 +211,7 @@ aside p {
 .sub-menu a:hover {
     color: #0bd;
 }
-@media (max-width: 600px) {
+@media  screen and(max-width: 600px) {
     h1{
         color: #0bd;
     }
@@ -219,7 +219,7 @@ aside p {
 
 /* モバイル版
 ---------------------------------- */
-@media (max-width: 600px) {
+@media screen and(max-width: 600px) {
     .page-title {
         font-size: 2.5rem;
     }
